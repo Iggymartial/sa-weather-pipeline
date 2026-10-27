@@ -1,0 +1,13 @@
+{
+  "locations": [
+    {"id": "johannesburg", "name": "Johannesburg", "province": "Gauteng",       "latitude": -26.2041, "longitude": 28.0473},
+    {"id": "cape-town",    "name": "Cape Town",    "province": "Western Cape",  "latitude": -33.9249, "longitude": 18.4241},
+    {"id": "durban",       "name": "Durban",       "province": "KwaZulu-Natal", "latitude": -29.8587, "longitude": 31.0218},
+    {"id": "gqeberha",     "name": "Gqeberha",     "province": "Eastern Cape",  "latitude": -33.9608, "longitude": 25.6022},
+    {"id": "bloemfontein", "name": "Bloemfontein", "province": "Free State",    "latitude": -29.0852, "longitude": 26.1596},
+    {"id": "polokwane",    "name": "Polokwane",    "province": "Limpopo",       "latitude": -23.9045, "longitude": 29.4689},
+    {"id": "mbombela",     "name": "Mbombela",     "province": "Mpumalanga",    "latitude": -25.4745, "longitude": 30.9703},
+    {"id": "kimberley",    "name": "Kimberley",    "province": "Northern Cape", "latitude": -28.7282, "longitude": 24.7499},
+    {"id": "mahikeng",     "name": "Mahikeng",     "province": "North West",    "latitude": -25.8652, "longitude": 25.6442}
+  ]
+}
