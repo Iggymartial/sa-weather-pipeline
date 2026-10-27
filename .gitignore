@@ -1,0 +1,26 @@
+# Secrets (arrives with the MySQL step)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Java (arrives with the API step)
+target/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Bulk pipeline output is NOT tracked: an hourly schedule produces ~24 files
+# a day, and committing data would bury the commit history that is meant to
+# show the work. The folders stay (via .gitkeep); a few curated real files
+# live in data/samples/ instead.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
